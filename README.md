@@ -1,5 +1,7 @@
-This project was coded using IntelliJ IDEA IDE (Ultimate) - Education Version licensed by the University
-Run Calculator.jar File for Final Output
+# Simple Calculator Using Java
 
-G.A.N.J. Ganepola - 170179U
-  
+***This project was coded using IntelliJ IDEA IDE (Ultimate) - Education Version licensed by the University***
+
+_ _Run Calculator.jar File for Final Output_ _
+
+###### G.A.N.J. Ganepola
